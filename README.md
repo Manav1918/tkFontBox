@@ -47,4 +47,4 @@ Affected main Window Text of textbox
 
 
 if you liked this repo,and it really helped you, and want to support me to make more repos. like this,
-Subscribe our Youtube Channel : <a href="www.youtube.com/c/cidaneducationhub/subscribe=1">CID An Education Hub</a>
+Subscribe our Youtube Channel : <a href="https://www.youtube.com/c/cidaneducationhub/subscribe=1">CID An Education Hub</a>
